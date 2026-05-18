@@ -1,0 +1,14 @@
+C:\Users\Lab20-PC02\Herencia\bin\Debug\net10.0\Herencia.exe
+C:\Users\Lab20-PC02\Herencia\bin\Debug\net10.0\Herencia.deps.json
+C:\Users\Lab20-PC02\Herencia\bin\Debug\net10.0\Herencia.runtimeconfig.json
+C:\Users\Lab20-PC02\Herencia\bin\Debug\net10.0\Herencia.dll
+C:\Users\Lab20-PC02\Herencia\bin\Debug\net10.0\Herencia.pdb
+C:\Users\Lab20-PC02\Herencia\obj\Debug\net10.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab20-PC02\Herencia\obj\Debug\net10.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\Lab20-PC02\Herencia\obj\Debug\net10.0\Herencia.AssemblyInfo.cs
+C:\Users\Lab20-PC02\Herencia\obj\Debug\net10.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Lab20-PC02\Herencia\obj\Debug\net10.0\Herencia.dll
+C:\Users\Lab20-PC02\Herencia\obj\Debug\net10.0\refint\Herencia.dll
+C:\Users\Lab20-PC02\Herencia\obj\Debug\net10.0\Herencia.pdb
+C:\Users\Lab20-PC02\Herencia\obj\Debug\net10.0\Herencia.genruntimeconfig.cache
+C:\Users\Lab20-PC02\Herencia\obj\Debug\net10.0\ref\Herencia.dll
