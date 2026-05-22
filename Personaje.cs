@@ -1,7 +1,7 @@
 using System;
 namespace Herencia;
 
-public class Personaje
+abstract public class Personaje
 {
     public string Nombre { get; set; }
     public int Nivel { get; set; }
@@ -20,4 +20,6 @@ public class Personaje
         Console.WriteLine($"Nivel: {Nivel}");
         Console.WriteLine($"Vida: {Vida}");
     }
+
+    public abstract void Atacar();
 }

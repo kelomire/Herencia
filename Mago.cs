@@ -22,4 +22,9 @@ public class Mago : Personaje
     {
         Console.WriteLine($"{Nombre} recupera energía mágica.");
     }
+
+    public override void Atacar()
+    {
+        Console.WriteLine($"{Nombre} ataca con un hechizo");
+    }
 }

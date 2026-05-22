@@ -24,4 +24,9 @@ public class Guerrero : Personaje
 
         Console.WriteLine($"{Nombre} bloquea el ataque con una defensa de {defensa} puntos.");
     }
+
+    public override void Atacar()
+    {
+        Console.WriteLine($"{Nombre} ataca con su espada");
+    }    
 }

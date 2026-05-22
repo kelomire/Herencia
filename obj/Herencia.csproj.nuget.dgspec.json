@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lab20-PC02\\Herencia\\Herencia.csproj": {}
+    "D:\\Repos\\Herencia\\Herencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lab20-PC02\\Herencia\\Herencia.csproj": {
+    "D:\\Repos\\Herencia\\Herencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lab20-PC02\\Herencia\\Herencia.csproj",
+        "projectUniqueName": "D:\\Repos\\Herencia\\Herencia.csproj",
         "projectName": "Herencia",
-        "projectPath": "C:\\Users\\Lab20-PC02\\Herencia\\Herencia.csproj",
+        "projectPath": "D:\\Repos\\Herencia\\Herencia.csproj",
         "packagesPath": "C:\\Users\\Lab20-PC02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lab20-PC02\\Herencia\\obj\\",
+        "outputPath": "D:\\Repos\\Herencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
