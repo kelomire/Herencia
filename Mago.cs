@@ -11,20 +11,15 @@ public class Mago : Personaje
         Mana = mana;
     }
 
-    public void LanzarHechizo()
-    {
-        int danio = Mana * Nivel;
-
-        Console.WriteLine($"{Nombre} lanza un hechizo y causa {danio} puntos de daño mágico.");
-    }
-
-    public void RecuperarMana()
-    {
-        Console.WriteLine($"{Nombre} recupera energía mágica.");
-    }
-
     public override void Atacar()
     {
-        Console.WriteLine($"{Nombre} ataca con un hechizo");
+        int daño = Mana * Nivel;
+        Console.WriteLine($"{Nombre} lanza un hechizo y causa {daño} de daño.");
+    }
+
+    public override void MostrarInfo()
+    {
+        base.MostrarInfo();
+        Console.WriteLine($"Maná: {Mana}");
     }
 }

@@ -14,12 +14,12 @@ abstract public class Personaje
         Vida = vida;
     }
 
-    public void MostrarInfo()
+    public abstract void Atacar();
+
+    public virtual void MostrarInfo()
     {
         Console.WriteLine($"Nombre: {Nombre}");
         Console.WriteLine($"Nivel: {Nivel}");
         Console.WriteLine($"Vida: {Vida}");
     }
-
-    public abstract void Atacar();
 }

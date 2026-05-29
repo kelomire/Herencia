@@ -11,22 +11,15 @@ public class Guerrero : Personaje
         Fuerza = fuerza;
     }
 
-    public void GolpearConEspada()
-    {
-        int danio = Fuerza * Nivel;
-
-        Console.WriteLine($"{Nombre} golpea con su espada y causa {danio} puntos de daño.");
-    }
-
-    public void BloquearAtaque()
-    {
-        int defensa = Fuerza + Nivel;
-
-        Console.WriteLine($"{Nombre} bloquea el ataque con una defensa de {defensa} puntos.");
-    }
-
     public override void Atacar()
     {
-        Console.WriteLine($"{Nombre} ataca con su espada");
-    }    
+        int daño = Fuerza * Nivel;
+        Console.WriteLine($"{Nombre} ataca con espada y causa {daño} de daño");
+    }
+
+    public override void MostrarInfo()
+    {
+        base.MostrarInfo();
+        Console.WriteLine($"Fuerza: {Fuerza}");
+    }
 }

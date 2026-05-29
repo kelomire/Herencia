@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\Herencia\\Herencia.csproj",
+      "projectUniqueName": "C:\\Users\\Lab20-PC02\\Downloads\\Herencia\\Herencia.csproj",
       "projectName": "Herencia",
-      "projectPath": "D:\\Repos\\Herencia\\Herencia.csproj",
+      "projectPath": "C:\\Users\\Lab20-PC02\\Downloads\\Herencia\\Herencia.csproj",
       "packagesPath": "C:\\Users\\Lab20-PC02\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\Herencia\\obj\\",
+      "outputPath": "C:\\Users\\Lab20-PC02\\Downloads\\Herencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
